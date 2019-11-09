@@ -11,12 +11,12 @@ h1 {
     background-color: #b19cd9;
   }
   .topnav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 90px;
-    text-decoration: none;
-    font-size: 32px;
+   float: left;
+  color: #f2f2f2;
+  text-align: center;
+  width: 20%;
+  text-decoration: none;
+  font-size: 32px;
   }
   .topnav a:hover {
     background-color: #ddd;
