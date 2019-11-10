@@ -48,3 +48,12 @@ body {
   width:33%;
 
 }
+
+pic {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
